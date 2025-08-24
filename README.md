@@ -29,6 +29,6 @@ This tool helps in **removing those identifiable strings** while keeping the bin
 - 🔧 **Customization** – Tweak Process Hacker for specific workflows.  
 
 ---
-![Project Structure](Annotation 2025-08-24 151225.png)  
+![Project Structure](blob:https://github.com/bf508440-7e85-4157-b255-3cedb8ea40d5)
 
 ---
