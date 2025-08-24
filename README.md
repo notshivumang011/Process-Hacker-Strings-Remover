@@ -1,8 +1,6 @@
 # 🚀 Process Hacker Strings Remover  
 
-![Project Structure](project-structure.png)  
 
----
 
 ## 📌 Introduction  
 
@@ -29,5 +27,8 @@ This tool helps in **removing those identifiable strings** while keeping the bin
 - 🧑‍💻 **Developer Utility** – Create cleaner internal builds without noise.  
 - 🎓 **Educational Value** – Understand how string-based signatures are used in detection.  
 - 🔧 **Customization** – Tweak Process Hacker for specific workflows.  
+
+---
+![Project Structure](Annotation 2025-08-24 151225.png)  
 
 ---
